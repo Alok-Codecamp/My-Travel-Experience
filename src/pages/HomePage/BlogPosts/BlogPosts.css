@@ -1,0 +1,7 @@
+.blog-container{
+    margin-right: auto;
+    margin-left: auto;
+    width: max-content;
+    overflow:hidden;     
+    border: 2px solid saddlebrown;                                             
+}
